@@ -1,5 +1,14 @@
-remote_theme: pages-themes/hacker@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-title: Slyzzed
-description: Welcome to my portfolio
+title: "Bradley Ryan | Blue Team Portfolio"
+description: "Cybersecurity Analyst | Threat Hunting | SIEM | Detection Engineering"
+theme: jekyll-theme-cayman
+show_downloads: false
+google_analytics: false
+github:
+  is_project_page: false
+  is_user_page: true
+
+# Optional navbar links
+navbar-links:
+  Home: /
+  Projects: /projects/
+
